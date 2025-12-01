@@ -16,7 +16,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue?logo=flutter />"
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-%23007ACC?style=flat-square&logo=flutter&logoColor=white />"
 </p>
 
 <table>
